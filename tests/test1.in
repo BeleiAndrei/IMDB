@@ -1,0 +1,34 @@
+add_user;5f233767-296d-43d9-bbc4-38c11e4a6b43;Joyce Redding
+add_actor;f384f07e-ede1-4e65-8413-49f1da10e09b;Kymberly Kilburn
+add_actor;2a247edc-a903-4462-ae5c-007d80c03aaa;Gregory Drock
+add_user;4f76783d-b503-4778-8648-cbf148baa310;Veronique Byrnside
+add_actor;8988d26c-1cca-4edc-bfb8-0013c6d2f91d;Dalila Dallmier
+add_user;bfd29052-9eb7-412e-bb38-f1f81231370e;Cornelius Hardaway
+add_user;19bbd55d-6c2a-444d-b2fd-c0aad5fcf69b;Rosaria Porres
+add_movie;Olive Kitteridge;4febf422-f3bb-4494-acaf-46ba2023f075;105073197;Drama;Lela Korpal;2a247edc-a903-4462-ae5c-007d80c03aaa
+get_rating;4febf422-f3bb-4494-acaf-46ba2023f075
+add_rating;bfd29052-9eb7-412e-bb38-f1f81231370e;4febf422-f3bb-4494-acaf-46ba2023f075;8
+add_actor;bcc8e631-883d-4a86-8305-2e73ddccca52;Brunilda Panyko
+add_rating;5f233767-296d-43d9-bbc4-38c11e4a6b43;4febf422-f3bb-4494-acaf-46ba2023f075;8
+add_actor;75057a4b-6dca-4f4e-87be-9b761ea08434;Malvina Junes
+add_actor;cdbe5fa2-600e-4d9f-a726-cdada3573c9e;Shon Lipner
+add_actor;96f270e4-5eb9-469b-b372-d57bc0782958;Angel Hobgood
+get_rating;4febf422-f3bb-4494-acaf-46ba2023f075
+add_movie;Fluke;6575392c-103b-4038-9f42-6c39dd9eec77;90607047;Children,Drama;Vilma Callison;f384f07e-ede1-4e65-8413-49f1da10e09b,2a247edc-a903-4462-ae5c-007d80c03aaa,bcc8e631-883d-4a86-8305-2e73ddccca52,cdbe5fa2-600e-4d9f-a726-cdada3573c9e,96f270e4-5eb9-469b-b372-d57bc0782958
+add_movie;Young People;19dbbe15-17ce-4e5d-93c5-fc4990c79971;561779439;Drama;Keri Rygalski;75057a4b-6dca-4f4e-87be-9b761ea08434,2a247edc-a903-4462-ae5c-007d80c03aaa,cdbe5fa2-600e-4d9f-a726-cdada3573c9e
+add_actor;4a5ac924-75f6-4d57-ad49-c6258eecd41f;Kimbery Tatsak
+add_user;1ed6eb70-07d4-47c7-bb6d-db4a34657d10;Vania Brzoska
+remove_rating;5f233767-296d-43d9-bbc4-38c11e4a6b43;4febf422-f3bb-4494-acaf-46ba2023f075
+add_actor;f9d3dd9b-68f2-45c5-bb95-247ac06bdeaa;Mina Tilt
+add_actor;214cd0a6-93c9-4fb1-a072-9e86406a91bd;Ines Fonck
+add_rating;4f76783d-b503-4778-8648-cbf148baa310;4febf422-f3bb-4494-acaf-46ba2023f075;8
+get_rating;19dbbe15-17ce-4e5d-93c5-fc4990c79971
+get_rating;4febf422-f3bb-4494-acaf-46ba2023f075
+get_rating;4febf422-f3bb-4494-acaf-46ba2023f075
+get_rating;4febf422-f3bb-4494-acaf-46ba2023f075
+get_rating;4febf422-f3bb-4494-acaf-46ba2023f075
+get_rating;19dbbe15-17ce-4e5d-93c5-fc4990c79971
+add_rating;4f76783d-b503-4778-8648-cbf148baa310;6575392c-103b-4038-9f42-6c39dd9eec77;3
+add_rating;1ed6eb70-07d4-47c7-bb6d-db4a34657d10;19dbbe15-17ce-4e5d-93c5-fc4990c79971;4
+get_rating;4febf422-f3bb-4494-acaf-46ba2023f075
+get_rating;19dbbe15-17ce-4e5d-93c5-fc4990c79971

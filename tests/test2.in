@@ -1,0 +1,47 @@
+add_actor;69ac64b5-9428-4657-9e9b-ff2cac0d3613;Samuel Kalter
+add_user;6d47624d-600e-4e4f-9431-60e60207d0c0;Pok Fiely
+add_user;494dd2b4-76e6-48d7-94f9-42cfcb152c10;Victoria Bohannan
+add_user;a2d8f970-4a24-492c-885c-a041dcb8197d;Margy Monroe
+add_movie;Malice N Wonderland;e72252b0-c9e2-4208-8211-1f6d639b253f;383400771;Drama,Musical;Ria Iltzsch;69ac64b5-9428-4657-9e9b-ff2cac0d3613
+get_rating;e72252b0-c9e2-4208-8211-1f6d639b253f
+add_actor;308c0bab-19a7-461c-9d9d-0986ef23209b;Marquetta Colclasure
+get_most_influential_director
+add_user;1797dd9e-35e5-40aa-a3a9-e8ce6297102a;Debra Shinners
+get_longest_career_actor
+add_user;8130f5d8-4522-4388-8e83-303bfe2aac17;Estela Bouch
+add_movie;Star Trek: First Contact;364d16d4-fe0a-4e44-bfd3-fe5925a8e996;70300061;Action,Adventure,Sci-Fi,Thriller;Dot Naves;69ac64b5-9428-4657-9e9b-ff2cac0d3613,308c0bab-19a7-461c-9d9d-0986ef23209b
+get_longest_career_actor
+get_rating;e72252b0-c9e2-4208-8211-1f6d639b253f
+add_rating;1797dd9e-35e5-40aa-a3a9-e8ce6297102a;e72252b0-c9e2-4208-8211-1f6d639b253f;10
+get_rating;e72252b0-c9e2-4208-8211-1f6d639b253f
+add_rating;494dd2b4-76e6-48d7-94f9-42cfcb152c10;364d16d4-fe0a-4e44-bfd3-fe5925a8e996;4
+get_most_influential_director
+get_longest_career_actor
+add_rating;a2d8f970-4a24-492c-885c-a041dcb8197d;364d16d4-fe0a-4e44-bfd3-fe5925a8e996;3
+add_rating;494dd2b4-76e6-48d7-94f9-42cfcb152c10;e72252b0-c9e2-4208-8211-1f6d639b253f;7
+remove_rating;494dd2b4-76e6-48d7-94f9-42cfcb152c10;e72252b0-c9e2-4208-8211-1f6d639b253f
+add_actor;9f22fcb4-3f16-417c-ab87-839b4a0142f9;Eric Finkbeiner
+add_actor;372466ab-585b-4796-a03a-413a5bec3379;Lakendra Stremcha
+get_most_influential_director
+add_movie;Cloverfield;a3951d05-39df-4e1d-a837-37c6e4594a90;1120202746;Action,Mystery,Sci-Fi,Thriller;Esta Madril;69ac64b5-9428-4657-9e9b-ff2cac0d3613,308c0bab-19a7-461c-9d9d-0986ef23209b,9f22fcb4-3f16-417c-ab87-839b4a0142f9
+add_actor;ac836781-0395-4895-9897-31970f346457;Refugio Donatien
+add_actor;ac2a3020-b102-4581-852f-8a28ee119c38;Shantel Graeber
+get_most_influential_director
+get_most_influential_director
+get_most_influential_director
+get_most_influential_director
+add_actor;787c1504-ec08-4890-ba8a-04c40e468222;Bambi Labounta
+get_longest_career_actor
+get_most_influential_director
+add_rating;8130f5d8-4522-4388-8e83-303bfe2aac17;a3951d05-39df-4e1d-a837-37c6e4594a90;6
+get_longest_career_actor
+get_longest_career_actor
+get_most_influential_director
+add_actor;5b7e8ab3-2458-4dcd-867e-e9431a34a696;Wallace Andrzejczyk
+get_most_influential_director
+add_actor;5fb46436-d4fb-4484-9f7f-08e3c422577b;Anne Weyler
+get_longest_career_actor
+get_longest_career_actor
+get_longest_career_actor
+add_actor;89f16382-2358-4212-b99f-10cd493e4631;Melodee Rabren
+get_longest_career_actor

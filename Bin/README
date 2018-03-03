@@ -1,0 +1,86 @@
+# sd-tema3
+
+Belei Andrei, Birzan Andrei, 312CA
+
+Cotributia fiecaruia in metode:
+
+	Belei Andrei : 
+	
+		- get_top_k_actor_pairs
+	
+		- get_top_k_most_recent_movies
+	
+		- get_top_k_partners_for_actor
+	
+		- get_top_k_moost_popular_movies
+	
+		- get_avg_rating_in_range
+	
+Birzan Andrei : 
+	
+		- get_longest_career_actor
+	
+		- get_most_influential_director
+	
+		- get_best_year_for_category
+	
+		- get_2nd_degree_coleagues
+	
+Comune :
+	
+		- add_movie
+	
+		- add_user
+	
+		- add_actor
+	
+		- add_rating
+	
+		- update_rating
+	
+		- remove_rating
+	
+		- get_rating
+
+
+get_longest_career_actor:
+	Parcurge lista de actori si calculeaza maximul in functie de timestampul celui mai vechi si celui mai recent film al actorului. Daca nu exista atunci intoarce "none", alftel intoarce id-ul actorului respectiv.
+
+get_most_influential_director:
+	Parcurge lista de directori si gaseste directorul cu numarul maxim de actori cu care a lucrat.
+
+get_best_year_for_category:
+	Parcurge filmele si daca gaseste categoria cautata in lista de categorii adauga ratingul filmului intr-un vector in care indexul reprezinta anul aparitiei filmului. Dupa parcurgerea filmelor cauta in vector anul cu ratingul maxim.
+
+get_2nd_degree_coleagues:
+	Parcurge lista colegilor de grad 1 ai actorului si cauta in lista colegilor de grad 1 a acestora colegii de grad 2 si ii adauga intr-o lista. Dupa parcurgere daca lista este goala intoarce "none", daca lista nu este goala o unicizeaza si intoarce id-urile colegilor de grad 2.
+
+add_movie:
+	Adauga filmul in hashtable, intr-o list de contorizare a ratingului si intr-o lista ce stocheaza data aparitiei. Verifica daca directorul exista in lista de directori, daca nu exista il adauga, si ii adauga actorii in lista de actori cu care acesta a lucrat. Pentru fiecare actor care a jucat in film acesta este adaugat in lista lui de filme in care a jucat si lista colegilor de grad 1. 
+
+add_user:
+	Adauga userul in hashtable.
+
+add_actor:
+	Adauga actorul in hashtable.
+
+add_rating:
+	Verifica daca userul a dat deja rating la acest film. Daca nu a dat rating atunci ratingul este adaugat in lista de ratinguri a filmului si filmul este adaugat in lista de filme la care userul a dat rating.
+
+update_rating:
+	Cauta ratingul anterior si il modifica
+
+remove_rating:
+	Cauta ratingul, il sterge si modifica ratingul filmului.
+
+get_rating:
+	Afiseaza ratingul filmului, daca acesta nu are rating afiseaza "none".
+
+get_top_k_most_recent_movies:
+	Daca nu exista filme intoarce "none", daca exista sorteaza lista de "Latest" intoarce primele k intrari.
+
+get_top_k_partners_for_actor:
+	Daca nu exista colegi de gradul 1 intoarce "none", daca exista intoarce primele k intrari din lista "pairs".
+
+get_top_k_most_popular_movies:
+	Daca nu exista filme cu ratinguri intoarce "none", daca exista sorteaza lista "Popularity" intoarce primele k intrari.

@@ -1,0 +1,84 @@
+add_user;2cedbf52-ffe9-4a65-9663-e2d38f9a1257;Dotty Missey
+add_user;81999811-e103-495b-b39e-fd1e6a607b55;Chad Palfreyman
+add_actor;72eca1ac-4b78-49ca-beae-e763d6b1fed1;Wesley Steine
+add_movie;Bambou;189040e9-4251-40b1-b7f7-1e168e968026;820844214;Comedy;Sidney Clozza;72eca1ac-4b78-49ca-beae-e763d6b1fed1
+add_rating;2cedbf52-ffe9-4a65-9663-e2d38f9a1257;189040e9-4251-40b1-b7f7-1e168e968026;9
+remove_rating;2cedbf52-ffe9-4a65-9663-e2d38f9a1257;189040e9-4251-40b1-b7f7-1e168e968026
+get_rating;189040e9-4251-40b1-b7f7-1e168e968026
+add_user;7eb9a649-0250-4bd6-ab04-c8414ff8b4b0;Barbara Mozzone
+add_movie;Andromeda Strain, The;f0d335e4-1270-4d9d-8594-10ad2db7f787;900422812;Mystery,Sci-Fi;Catrina Sliz;72eca1ac-4b78-49ca-beae-e763d6b1fed1
+get_avg_rating_in_range;144314026;450527207
+add_rating;7eb9a649-0250-4bd6-ab04-c8414ff8b4b0;f0d335e4-1270-4d9d-8594-10ad2db7f787;8
+get_avg_rating_in_range;731244213;765376030
+add_user;091a6e15-6029-4aef-bd2e-d057a7abca03;Lyman Head
+get_rating;f0d335e4-1270-4d9d-8594-10ad2db7f787
+add_actor;a05135f6-4254-458a-ab20-fa57bbd82c7a;Gertha Yanni
+add_movie;Bad Timing: A Sensual Obsession;5d6b4142-f960-4bb7-b45d-666994ca4145;417168588;Drama;Muoi Hojnacki;a05135f6-4254-458a-ab20-fa57bbd82c7a
+get_avg_rating_in_range;598036478;710556711
+get_rating;f0d335e4-1270-4d9d-8594-10ad2db7f787
+get_rating;f0d335e4-1270-4d9d-8594-10ad2db7f787
+get_rating;189040e9-4251-40b1-b7f7-1e168e968026
+get_avg_rating_in_range;1034141342;1107612802
+add_user;bebd2819-1d27-41c9-8c22-b40629e5de4e;Mike Cavallero
+get_rating;189040e9-4251-40b1-b7f7-1e168e968026
+add_rating;7eb9a649-0250-4bd6-ab04-c8414ff8b4b0;5d6b4142-f960-4bb7-b45d-666994ca4145;8
+get_rating;189040e9-4251-40b1-b7f7-1e168e968026
+get_avg_rating_in_range;298085129;1274486140
+add_rating;091a6e15-6029-4aef-bd2e-d057a7abca03;5d6b4142-f960-4bb7-b45d-666994ca4145;6
+add_actor;40a2d5ac-fc14-47e7-b19c-ac26eccc624a;Nadine Rusell
+add_actor;1fba87af-930d-4993-8748-3203149b3d7b;Shanelle Proto
+get_avg_rating_in_range;507703968;1101754951
+add_actor;cef2d9c1-3731-48b3-b919-a5bdff5ecfec;Masako Winberg
+add_rating;2cedbf52-ffe9-4a65-9663-e2d38f9a1257;f0d335e4-1270-4d9d-8594-10ad2db7f787;10
+get_rating;189040e9-4251-40b1-b7f7-1e168e968026
+add_actor;8e264564-20d3-4e1e-8b1c-952500b4e632;Torie Poppel
+get_rating;5d6b4142-f960-4bb7-b45d-666994ca4145
+get_avg_rating_in_range;161911709;1207891290
+add_actor;e073cd26-24a6-4640-9639-bc6f2d36d6be;Charmaine Dechavez
+get_avg_rating_in_range;12601662;1029258653
+get_rating;5d6b4142-f960-4bb7-b45d-666994ca4145
+get_avg_rating_in_range;496029483;966211462
+get_avg_rating_in_range;119988083;486078917
+get_avg_rating_in_range;260879160;1050887531
+get_avg_rating_in_range;333633880;1241147707
+add_actor;ce84f05f-858e-419c-80aa-ed4775df80e3;Elma Vielle
+add_actor;e5a2ffb2-33fe-4966-990f-89aad5e2c7d4;Marquita Hollembaek
+get_avg_rating_in_range;5314200;911058967
+add_actor;d50b9d65-a2d5-4e3c-8aff-9d502b275fa2;Kay Davitt
+get_avg_rating_in_range;129364049;580108381
+get_avg_rating_in_range;1438771262;1454926480
+get_avg_rating_in_range;8243458;1180670926
+get_avg_rating_in_range;1251176609;1426102440
+get_avg_rating_in_range;729251157;1342958338
+get_avg_rating_in_range;461885209;1012729598
+get_avg_rating_in_range;843768636;1247300035
+get_avg_rating_in_range;1116206929;1370331972
+get_avg_rating_in_range;55455549;949976703
+get_avg_rating_in_range;840883988;1350671106
+get_avg_rating_in_range;1006904787;1220101807
+get_avg_rating_in_range;341872219;976155997
+get_avg_rating_in_range;98142736;1276291544
+get_avg_rating_in_range;274782805;793260158
+get_avg_rating_in_range;18957541;1253620170
+get_avg_rating_in_range;290301128;845164495
+get_avg_rating_in_range;54095870;707483645
+get_avg_rating_in_range;1246674374;1281407177
+get_avg_rating_in_range;14176736;1172034633
+get_avg_rating_in_range;456693972;585471652
+get_avg_rating_in_range;236462106;1389733286
+get_avg_rating_in_range;7442486;345008480
+get_avg_rating_in_range;596207810;1107394656
+get_avg_rating_in_range;21053531;437860904
+get_avg_rating_in_range;227076726;1304126340
+get_avg_rating_in_range;167020789;1263743247
+get_avg_rating_in_range;110100277;1478849522
+get_avg_rating_in_range;212589282;305492341
+get_avg_rating_in_range;1156926353;1374356012
+get_avg_rating_in_range;222051462;353832491
+get_avg_rating_in_range;590694197;1282177165
+get_avg_rating_in_range;64944955;129093053
+get_avg_rating_in_range;378488505;553972955
+get_avg_rating_in_range;658146851;980705412
+get_avg_rating_in_range;176958824;1124950443
+get_avg_rating_in_range;360160679;939968505
+get_avg_rating_in_range;41192717;1077937625

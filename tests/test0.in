@@ -1,0 +1,48 @@
+add_user;ch0114428;Patrick Jane
+add_user;ch0111140;Teresa Lisbon
+add_user;ch0000033;Chewbacca
+add_actor;nm0000199;Al Pacino
+add_actor;nm0000563;Robin Tunney
+add_actor;nm0048932;Simon Baker
+add_actor;nm0714310;James Rebhorn
+add_movie;Scent of a woman;tt0105323;725068800;drama;Martin Brest;nm0000199,nm0000563,nm0714310
+get_rating;tt0105323
+add_rating;ch0114428;tt0105323;9
+add_rating;ch0111140;tt0105323;9
+add_rating;ch0000033;tt0105323;2
+update_rating;ch0000033;tt0105323;10
+get_rating;tt0105323
+remove_rating;ch0000033;tt0105323
+remove_rating;ch0111140;tt0105323
+get_rating;tt0105323
+get_longest_career_actor
+add_actor;nm0000008;Marlon Brando
+add_movie;The Godfather;tt0068646;83462400;crime,drama;Francis Ford Coppola;nm0000199,nm0000008
+get_longest_career_actor
+get_most_influential_director
+get_best_year_for_category;drama
+add_rating;ch0111140;tt0068646;10
+get_best_year_for_category;drama
+get_best_year_for_category;comedy
+get_2nd_degree_colleagues;nm0000199
+add_actor;nm0000380;Robert Duvall
+add_movie;The Godfather: Part II;tt0071562;169344000;crime,drama;Francis Ford Coppola;nm0000199,nm0000380
+get_2nd_degree_colleagues;nm0000199
+get_2nd_degree_colleagues;nm0000008
+get_most_influential_director
+get_top_k_most_recent_movies;2
+get_top_k_actor_pairs;2
+get_top_k_partners_for_actor;2;nm0000380
+get_top_k_partners_for_actor;2;nm0000199
+get_top_k_most_popular_movies;2
+add_rating;ch0000033;tt0105323;3
+get_top_k_most_popular_movies;4
+get_avg_rating_in_range;0;725068800
+get_avg_rating_in_range;169344000;169344000
+add_rating;ch0111140;tt0105323;10
+add_rating;ch0111140;tt0071562;9
+get_avg_rating_in_range;126403200;725068800
+get_avg_rating_in_range;0;1000
+get_avg_rating_in_range;725068800;725068800
+get_avg_rating_in_range;169344000;169344000
+
